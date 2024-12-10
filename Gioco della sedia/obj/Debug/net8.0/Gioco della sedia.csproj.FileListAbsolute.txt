@@ -1,0 +1,15 @@
+C:\Users\ziyis\OneDrive\Desktop\gioco-della-sedia\Gioco della sedia\bin\Debug\net8.0\Gioco della sedia.exe
+C:\Users\ziyis\OneDrive\Desktop\gioco-della-sedia\Gioco della sedia\bin\Debug\net8.0\Gioco della sedia.deps.json
+C:\Users\ziyis\OneDrive\Desktop\gioco-della-sedia\Gioco della sedia\bin\Debug\net8.0\Gioco della sedia.runtimeconfig.json
+C:\Users\ziyis\OneDrive\Desktop\gioco-della-sedia\Gioco della sedia\bin\Debug\net8.0\Gioco della sedia.dll
+C:\Users\ziyis\OneDrive\Desktop\gioco-della-sedia\Gioco della sedia\bin\Debug\net8.0\Gioco della sedia.pdb
+C:\Users\ziyis\OneDrive\Desktop\gioco-della-sedia\Gioco della sedia\obj\Debug\net8.0\Gioco della sedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ziyis\OneDrive\Desktop\gioco-della-sedia\Gioco della sedia\obj\Debug\net8.0\Gioco della sedia.AssemblyInfoInputs.cache
+C:\Users\ziyis\OneDrive\Desktop\gioco-della-sedia\Gioco della sedia\obj\Debug\net8.0\Gioco della sedia.AssemblyInfo.cs
+C:\Users\ziyis\OneDrive\Desktop\gioco-della-sedia\Gioco della sedia\obj\Debug\net8.0\Gioco della sedia.csproj.CoreCompileInputs.cache
+C:\Users\ziyis\OneDrive\Desktop\gioco-della-sedia\Gioco della sedia\obj\Debug\net8.0\Gioco della sedia.sourcelink.json
+C:\Users\ziyis\OneDrive\Desktop\gioco-della-sedia\Gioco della sedia\obj\Debug\net8.0\Gioco della sedia.dll
+C:\Users\ziyis\OneDrive\Desktop\gioco-della-sedia\Gioco della sedia\obj\Debug\net8.0\refint\Gioco della sedia.dll
+C:\Users\ziyis\OneDrive\Desktop\gioco-della-sedia\Gioco della sedia\obj\Debug\net8.0\Gioco della sedia.pdb
+C:\Users\ziyis\OneDrive\Desktop\gioco-della-sedia\Gioco della sedia\obj\Debug\net8.0\Gioco della sedia.genruntimeconfig.cache
+C:\Users\ziyis\OneDrive\Desktop\gioco-della-sedia\Gioco della sedia\obj\Debug\net8.0\ref\Gioco della sedia.dll
